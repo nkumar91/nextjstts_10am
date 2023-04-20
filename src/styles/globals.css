@@ -1,3 +1,11 @@
 .kk{
   color:red;
 }
+
+.bg-blue{
+  background-color: blue;
+}
+
+.text-danger{
+  color:green !important;
+}
