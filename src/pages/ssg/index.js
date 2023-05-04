@@ -21,6 +21,6 @@ export async function getStaticProps(context){
     props:{
         data:totalState.data,
         abc:50
-    }
+    } 
   }
 }
